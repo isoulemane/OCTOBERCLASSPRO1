@@ -1,1 +1,1 @@
-USA DevOps class just started now : work load on cicd.
+USA DevOps class just started now in usa work load on cicd.
